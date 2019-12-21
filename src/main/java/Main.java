@@ -11,6 +11,8 @@ import static java.lang.Thread.sleep;
 
 public class Main {
 
+    private int REBASE;
+
     private static SerialPort serialPort;
 
     private static Map<String, byte[]> commands;
