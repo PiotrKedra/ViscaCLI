@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class ViscaResponseReader {
+
+    private short k;
     private static final long TIMEOUT_MS = 5000L;
 
     private static final String BOB = "bob.com";
