@@ -10,6 +10,8 @@ public class ViscaResponseReader {
 
     private static final String BOB = "bob.com";
 
+    private String AAA = "AAA";
+
     public ViscaResponseReader() {
     }
 
