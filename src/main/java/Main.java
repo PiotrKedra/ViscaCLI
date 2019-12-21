@@ -11,10 +11,10 @@ import static java.lang.Thread.sleep;
 
 public class Main {
     private String kupa;
-
+//a
     private int REBASE;
     private String wtf;
-
+//b
     private String main;
 
     private static SerialPort serialPort;
