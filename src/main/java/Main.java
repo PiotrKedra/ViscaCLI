@@ -12,6 +12,9 @@ import static java.lang.Thread.sleep;
 public class Main {
     private String kupa;
 
+    private int REBASE;
+    private String wtf;
+
     private static SerialPort serialPort;
 
     private static Map<String, byte[]> commands;
