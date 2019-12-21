@@ -16,6 +16,8 @@ public class ViscaResponseReader {
 
     private String XXX = "XXX";
 
+    private String visca;
+
     public ViscaResponseReader() {
     }
 
