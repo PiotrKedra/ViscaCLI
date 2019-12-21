@@ -15,6 +15,8 @@ public class Main {
     private int REBASE;
     private String wtf;
 
+    private String main;
+
     private static SerialPort serialPort;
 
     private static Map<String, byte[]> commands;
