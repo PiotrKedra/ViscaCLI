@@ -12,6 +12,7 @@ import static java.lang.Thread.sleep;
 public class Main {
 
     private int REBASE;
+    private String wtf;
 
     private static SerialPort serialPort;
 
