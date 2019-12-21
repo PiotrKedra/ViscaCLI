@@ -10,6 +10,7 @@ import java.util.Map;
 import static java.lang.Thread.sleep;
 
 public class Main {
+    private String kupa;
 
     private static SerialPort serialPort;
 
